@@ -1,7 +1,7 @@
-#NAME ReMy_EROTIC_IPTV
-#SERVICE 1:64:A2:0:0:0:0:0:0:0::E N I G M A_T U R K_ T E A M_A D U L T
+#NAME :::--ReMy_EROTIC_IPTV--:::
+#SERVICE 1:64:9B:0:0:0:0:0:0:0::E N I G M A_T U R K_ T E A M_A D U L T
 #DESCRIPTION E N I G M A_T U R K_ T E A M_A D U L T
-#SERVICE 1:64:A3:0:0:0:0:0:0:0::P R E M I U M_A D U L T
+#SERVICE 1:64:9C:0:0:0:0:0:0:0::P R E M I U M_A D U L T
 #DESCRIPTION P R E M I U M_A D U L T
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//usaserver.miamitvchannel.com/miamitv/smil%3amiamitv/chunklist_w579131526_b1096000.m3u8:miamitv
 #DESCRIPTION miamitv
@@ -61,7 +61,7 @@
 #DESCRIPTION Babestation Unleashed 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//publish.thewebstream.co%3a1935/leved/_definst_/livesexlatinas/playlist.m3u8:Live Sex Latinas
 #DESCRIPTION Live Sex Latinas
-#SERVICE 1:64:A4:0:0:0:0:0:0:0::M U S I C_S E X Y
+#SERVICE 1:64:9D:0:0:0:0:0:0:0::M U S I C_S E X Y
 #DESCRIPTION M U S I C_S E X Y
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zazax1.ru/newvid/alind.mp4:aLinda
 #DESCRIPTION aLinda
@@ -171,7 +171,7 @@
 #DESCRIPTION 3xru.ru/celebrities/viva-bianca-nude-scenes-sparta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zazax1.ru/newvid/tashpro.mp4:3xru.ru/nudetv/prokachali-tachku-goloj-vedushhej
 #DESCRIPTION 3xru.ru/nudetv/prokachali-tachku-goloj-vedushhej
-#SERVICE 1:64:A5:0:0:0:0:0:0:0::Video On Demand (VOD)
+#SERVICE 1:64:9E:0:0:0:0:0:0:0::Video On Demand (VOD)
 #DESCRIPTION Video On Demand (VOD)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//exclusives.harmonyvision.com/Slam_It_In_A_Young_Whore-Priva.mp4:Slam_It_In_A_Young_Whore
 #DESCRIPTION Slam_It_In_A_Young_Whore
