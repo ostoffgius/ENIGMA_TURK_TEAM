@@ -1,0 +1,868 @@
+01000065 "Cyfra+ VOD"
+; tigretunisie
+01000068 "Cyfra+ (13E)" ; tigretunisie
+0100006A "Canal+ Nederland (19E/23E)" ; tigretunisie
+0100006B "Canal+ Nederland HD (19E/23E)" ; tigretunisie
+0100006C "TV Vlaanderen (19E/23E)" ; tigretunisie
+0100006D "TeleSat Wallonne (13E/19E/23E)" ; tigretunisie
+0100006E "CanalSat Horizons (22W)" ; tigretunisie
+0100006F "(ID.Unused) CanalSat Horizons" ; tigretunisie
+01000084 "Numericable-MTV (19E)" ; tigretunisie
+01000085 "FTC-MTV (19E)" ; tigretunisie
+01000086 "Equidia (13E)" ; tigretunisie
+01000091 "CanalSatellite Reunion (16E)" ; tigretunisie
+0100009B "BeTV Wallons/Canal+ Belgique (DVBC)" ; tigretunisie
+0100009C "Canal+ Vlaanderen (DVBC)" ; tigretunisie
+0100009D "(ID.Unused) Canal+ Belgique"
+## cccam.providers Update 25-02-2017 -- ####
+
+; tigretunisie
+0100009E "(ID.Unused) Canal+ Vlaanderen" ; tigretunisie
+0100009F "CanalSat Reunion (16E)/Caraibes (31W/34W)" ; tigretunisie
+010000A7 "TopUp TV (DVBT)[16E]" ; tigretunisie
+010000AB "Astro TV (91E)" ; tigretunisie
+010000AC "(ID.Unused) Astro TV" ; tigretunisie
+010000AD "(ID.Unused) Astro TV" ; tigretunisie
+010000AE "(ID.Unused) Astro TV" ; tigretunisie
+010000AF "Zee Network (105E)" ; tigretunisie
+010000B0 "(ID.Unused) Zee Boquet" ; tigretunisie
+010000B1 "Mediaset (13E/5W)" ; tigretunisie
+010000B2 "(ID.Unused) Mediaset" ; tigretunisie
+01000140 "Telecom (DVBC)" ; tigretunisie
+01000141 "Telecom (DVBC)" ; tigretunisie
+01000142 "Telecom (DVBC)" ; tigretunisie
+01000143 "Telecom (DVBC)" ; tigretunisie
+01000144 "Telecom (DVBC)" ; tigretunisie
+01000145 "Telecom (DVBC)" ; tigretunisie
+01000147 "TopUp TV (DVBT)[16E]" ; tigretunisie
+01000156 "Tv Numeric (DVBT)[5W]" ; tigretunisie
+01000157 "(ID.Unused) Tv Numeric" ; tigretunisie
+01000158 "Tv Numeric C+ (DVBT)" ; tigretunisie
+0100015A "(ID.Unused) Tv Numeric" ; tigretunisie
+01000185 "TopUp TV (DVBT)[16E]" ; tigretunisie
+010002E2 "RAI (13E)&[EMU]" ; tigretunisie
+01000403 "Satro SK (DVBC)" ; tigretunisie
+010004E0 "Hustler HD-3D (13E)" ; tigretunisie
+01000904 "Satro SK (DVBC)" ; tigretunisie
+01003311 "CanalSat France (19E)" ; tigretunisie
+01003315 "Canal+ France (19E)" ; tigretunisie
+01003317 "CanalPro France (19E)" ; tigretunisie
+0100331B "(ID.Unused) CSAT" ; tigretunisie
+0100331D "(ID.Unused) CSAT" ; tigretunisie
+01003341 "(ID.Unused) Mediaguard V10.0" ; tigretunisie
+01004106 "Digital+ (19E)" ; tigretunisie
+01004108 "(ID.Unused) Digital+" ; tigretunisie
+01005001 "(ID.Unused) Digital+" ; tigretunisie
+01005211 "(ID.Unused) MEO ADMIN" ; tigretunisie
+01005221 "MEO PT DHT (30W)" ; tigretunisie
+01005225 "(ID.Unused) MEO RFU" ; tigretunisie
+01005E11 "Canal+ NL Mediaguard v10.0 (19E/23E)" ; tigretunisie
+01005E12 "(ID.Unused) Canal+ NL" ; tigretunisie
+01005E14 "(ID.Unused) Canal+ NL" ; tigretunisie
+01005E16 "(ID.Unused) Canal+ NL" ; tigretunisie
+0100A821 "Numericable (19E/13E)" ; tigretunisie
+0100A825 "Canal+ France (19E)" ; tigretunisie
+0100A829 "(ID.Unused) CanalSat" ; tigretunisie
+0100AA41 "BeTV Premium HD (regional DVB-C)" ; tigretunisie
+0100AA44 "Voo HD (regional DVB-C)" ; tigretunisie
+01025E22 "Tv Numeric (DVBT)" ; tigretunisie
+01025E24 "Tv Numeric C+ (DVBT)" ; tigretunisie
+05000000 "Viaccess CAid" ; tigretunisie
+05007400 "MEZZO/MCM Belgique (13E/5W)&[EMU]" ; tigretunisie
+05007800 "SIC Internacional (16E)&[EMU]" ; tigretunisie
+05008220 "(ID.Unused) TV Orange TNT" ; tigretunisie
+05008230 "(ID.Unused) TV Orange TNT" ; tigretunisie
+05013000 "SIC Internacional (16E)" ; tigretunisie
+05015400 "Globecast France (5W)" ; tigretunisie
+05018800 "Deepam TV (13E)" ; tigretunisie
+05018810 "(ID.Unused) Deepam" ; tigretunisie
+05018820 "(ID.Unused) Deepam" ; tigretunisie
+05020500 "Boxer (DVBT)" ; tigretunisie
+05020510 "(ID.Unused) Boxer (DVBT)" ; tigretunisie
+05020520 "(ID.Unused) Boxer (DVBT)" ; tigretunisie
+05020530 "(ID.Unused) Boxer (DVBT)" ; tigretunisie
+05020540 "(ID.Unused) Boxer (DVBT)" ; tigretunisie
+05020810 "Game One (13E)" ; tigretunisie
+05020820 "(ID.Unused) Game One" ; tigretunisie
+05020900 "Globecast (13E/7E)" ; tigretunisie
+05020910 "GlobeCast/TBD (13E/9E/7E/40W)" ; tigretunisie
+05020A00 "HRT Croatia (13E)" ; tigretunisie
+05020A10 "(ID.Unused) HRT Croatia" ; tigretunisie
+05020A20 "(ID.Unused) HRT Croatia" ; tigretunisie
+05020A30 "(ID.Unused) HRT Croatia" ; tigretunisie
+05020A40 "HRT CMC (13E)" ; tigretunisie
+05021110 "ART/Ant1 (13E/39E)" ; tigretunisie
+05021120 "(ID.Unused) ART" ; tigretunisie
+05021200 "Asianet/AsiaFM (9E/13E/88E)" ; tigretunisie
+05021210 "(ID.Unused) RRSat/TBL" ; tigretunisie
+05021220 "(ID.Unused) RRSat/TBL" ; tigretunisie
+05021400 "pacific/asia provider" ; tigretunisie
+05021520 "Musicam (9E)" ; tigretunisie
+05021560 "ST-Hilo (30W)" ; tigretunisie
+05021700 "Private Spice (13E)" ; tigretunisie
+05021900 "BHT Bosnia TV (16E/12W)" ; tigretunisie
+05021A00 "Globecast Spain (30W)" ; tigretunisie
+05021A10 "Globecast (12W/42E)" ; tigretunisie
+05021B00 "Deepam TV (13E)" ; tigretunisie
+05021B10 "(ID.Unused) Deepam"
+## cccam.providers Update 25-02-2017 -- ####
+
+; tigretunisie
+05021D00 "Parabole Reunion (16E)" ; tigretunisie
+05021E00 "GMA Network (138?E)" ; tigretunisie
+05022000 "I-Sky-Net" ; tigretunisie
+05022010 "I-Sky-Net (138E)" ; tigretunisie
+05022020 "I-Sky-Net" ; tigretunisie
+05022030 "146-SkyNet" ; tigretunisie
+05022040 "146-SkyNet (146E)" ; tigretunisie
+05022050 "146-SkyNet" ; tigretunisie
+05022200 "Televisa (24W/43W-C)" ; tigretunisie
+05022210 "(ID.Unused) Televisa" ; tigretunisie
+05022400 "Vietnam Cable Television" ; tigretunisie
+05022410 "(ID.Unused) Vietnam Cable Television" ; tigretunisie
+05022500 "DORCEL (19E)" ; tigretunisie
+05022610 "TPS/CanalSat France (19E)" ; tigretunisie
+05022620 "(ID.Unused) CANALSAT TPS" ; tigretunisie
+05022A00 "Eurosport (13E/7E)" ; tigretunisie
+05022B00 "Poverkhnost+ (36E)" ; tigretunisie
+05022C00 "RTVi (13E)" ; tigretunisie
+05022D00 "NTV Mir (5E)" ; tigretunisie
+05022E00 "Neovisne TV Hayat (13E/4W)" ; tigretunisie
+05022E10 "(ID.Unused) Neovisne TV Hayat" ; tigretunisie
+05022F00 "MAX TV (5E/13E/16E/12W)" ; tigretunisie
+05022F10 "(ID.Unused) MAX TV" ; tigretunisie
+05023000 "SIC Internacional (16E)" ; tigretunisie
+05023100 "NSAB (5E)" ; tigretunisie
+05023110 "(ID.Unused) NSAB" ; tigretunisie
+05023120 "(ID.Unused) NSAB" ; tigretunisie
+05023130 "(ID.Unused) NSAB" ; tigretunisie
+05023140 "(ID.Unused) NSAB" ; tigretunisie
+05023200 "Boxer (DVBT)" ; tigretunisie
+05023210 "(ID.Unused) Boxer (DVBT)" ; tigretunisie
+05023220 "(ID.Unused) Boxer (DVBT)" ; tigretunisie
+05023230 "(ID.Unused) Boxer (DVBT)" ; tigretunisie
+05023240 "(ID.Unused) Boxer (DVBT)" ; tigretunisie
+05023600 "MCM TOP (19E)" ; tigretunisie
+05023700 "HTB+ (36E)" ; tigretunisie
+05023710 "(ID.Unused) HTB+" ; tigretunisie
+05023800 "SRG Swiss (13E)" ; tigretunisie
+05023A00 "GlobeCast (13E/16E/9E/7E)" ; tigretunisie
+05023A10 "myZen (9E)" ; tigretunisie
+05023A20 "GlobeCast France (5W)" ; tigretunisie
+05023B10 "Disney (9E)" ; tigretunisie
+05023D00 "HTB+ Boctok (56E)" ; tigretunisie
+05024300 "Globecast (13E/9E)" ; tigretunisie
+05024310 "(ID.Unused) Globecast" ; tigretunisie
+05024400 "Dorcel TV (19E)" ; tigretunisie
+05024500 "SVT Europa (9E)" ; tigretunisie
+05024510 "(ID.Unused) SVT Europa" ; tigretunisie
+05024520 "(ID.Unused) SVT Europa" ; tigretunisie
+05024600 "TNS (180E)" ; tigretunisie
+05024700 "Nat Geo (4W)" ; tigretunisie
+05024900 "CFI (5W-C)" ; tigretunisie
+05024B00 "RTVi (13E)" ; tigretunisie
+05024F00 "Max TV (5E/16E/13E/12W)" ; tigretunisie
+05024F10 "(ID.Unused) Max TV" ; tigretunisie
+05025000 "TV Orange (IPTV/DVBT)" ; tigretunisie
+05025010 "TV Orange (IPTV/DVBT)" ; tigretunisie
+05025020 "TV Orange MLTV (IPTV/DVBT)" ; tigretunisie
+05025030 "TV Orange (IPTV/DVBT)" ; tigretunisie
+05025100 "Redlight Premium (13E/5W)" ; tigretunisie
+05025200 "GlobeCast BT" ; tigretunisie
+05025210 "Deepam TV (13E)" ; tigretunisie
+05025800 "Poverkhnost+ (36E)" ; tigretunisie
+05025900 "TVR (16E)" ; tigretunisie
+05025910 "(ID.Unused) TVR" ; tigretunisie
+05030100 "Eurosport HD (13E/7E/75E)" ; tigretunisie
+05030600 "HTB+ (36E)" ; tigretunisie
+05030A00 "HRT/MTV Adria (13E/4W)" ; tigretunisie
+05030A10 "(ID.Unused) HRT" ; tigretunisie
+05030A20 "(ID.Unused) HRT" ; tigretunisie
+05030A30 "(ID.Unused) HRT" ; tigretunisie
+05030A40 "(ID.Unused) HRT" ; tigretunisie
+05030B00 "TNT Sat (19E)" ; tigretunisie
+05030C00 "Y&S (12W)" ; tigretunisie
+05031D00 "D-Sky (138E)" ; tigretunisie
+05031D10 "(ID.Unused) D-Sky" ; tigretunisie
+05031000 "TV Slovenija (13E)" ; tigretunisie
+05031100 "GlobeCast France (19E)" ; tigretunisie
+05031200 "myZen.tv (9E)" ; tigretunisie
+05031C00 "BBC Polska (13E)" ; tigretunisie
+05032100 "Mir (36E)" ; tigretunisie
+05032200 "Tv Numeric/TNtop (DVBT)[5W]" ; tigretunisie
+05032210 "Tv Numeric C+ (DVBT)[5W]" ; tigretunisie
+05032220 "(ID.Unused) TNtop" ; tigretunisie
+05032230 "(ID.Unused) TNtop" ; tigretunisie
+05032300 "Motors TV (13E)" ; tigretunisie
+05032500 "Private Spice (13E)" ; tigretunisie
+05032510 "(ID.Unused) Private Spice"
+## cccam.providers Update 25-02-2017 -- ####
+
+; tigretunisie
+05032830 "CanalSat France (19E)" ; tigretunisie
+05032840 "(ID.Unused) CSAT" ; tigretunisie
+05032880 "(ID.Unused) CSAT" ; tigretunisie
+05032900 "Orange TNT/TV Numeric (DVBT)" ; tigretunisie
+05032910 "(ID.Unused) Orange TV" ; tigretunisie
+05032920 "Orange SAT (19E/13E/5W/12W)" ; tigretunisie
+05032930 "(ID.Unused) Orange TV" ; tigretunisie
+05032940 "(ID.Unused) Orange TV" ; tigretunisie
+05032950 "(ID.Unused) Orange TV" ; tigretunisie
+05032A00 "Orange Polska (13E)" ; tigretunisie
+05032A10 "(ID.Unused) Orange Polska CANAL+" ; tigretunisie
+05032A20 "(ID.Unused) Orange Polska CANAL+" ; tigretunisie
+05032A30 "(ID.Unused) Orange Polska CANAL+" ; tigretunisie
+05032A40 "(ID.Unused) Orange Polska CANAL+" ; tigretunisie
+05032D20 "STAR TV (83E)" ; tigretunisie
+05032D90 "ARY (9E)" ; tigretunisie
+05032E00 "(ID.Unused) ARY" ; tigretunisie
+05033000 "Tv Numeric (DVBT)" ; tigretunisie
+05040100 "Boxer (DVBC)" ; tigretunisie
+05040110 "(ID.Unused) Boxer" ; tigretunisie
+05040120 "(ID.Unused) Boxer" ; tigretunisie
+05040130 "(ID.Unused) Boxer" ; tigretunisie
+05040210 "YouSee/TDC Denmark (DVB-C)" ; tigretunisie
+05040220 "(ID.Unused) YouSee/TDC Denmark" ; tigretunisie
+05040230 "(ID.Unused) YouSee/TDC Denmark" ; tigretunisie
+05040240 "(ID.Unused) YouSee/TDC Denmark" ; tigretunisie
+05040500 "Globecast (9E/13E/5W)" ; tigretunisie
+05040510 "Globecast (9E/13E/5W)" ; tigretunisie
+05040600 "HTB+ (36E)" ; tigretunisie
+05040610 "HTB+ Light (36E)" ; tigretunisie
+05040620 "HTB+ (36E)" ; tigretunisie
+05040810 "SRG Swiss (13E)" ; tigretunisie
+05040820 "(ID.Unused) SRG Swiss" ; tigretunisie
+05040830 "(ID.Unused) SRG Swiss" ; tigretunisie
+05040A00 "BBC (9E)" ; tigretunisie
+05040A10 "(ID.Unused) BBC" ; tigretunisie
+05040C00 "TNS (180E)" ; tigretunisie
+05040F40 "Canal+ France (19E)" ; tigretunisie
+05041100 "Canal+ Marghreb (26E)" ; tigretunisie
+05041140 "Canal+ Marghreb (26E)" ; tigretunisie
+05041200 "TRK/Racing (5E)" ; tigretunisie
+05041500 "ART/JSC (7W)" ; tigretunisie
+05041510 "(ID.Unused) ART" ; tigretunisie
+05041520 "(ID.Unused) ART" ; tigretunisie
+05041530 "(ID.Unused) ART" ; tigretunisie
+05041700 "Redlight New Elite (13E/5W/12W)" ; tigretunisie
+05041710 "(ID.Unused) Redlight New Elite" ; tigretunisie
+05041820 "TV Festival (19E)" ; tigretunisie
+05041900 "FranSat (5W)" ; tigretunisie
+05041910 "(ID.Unused) FranSat" ; tigretunisie
+05041920 "(ID.Unused) FranSat" ; tigretunisie
+05041930 "(ID.Unused) FranSat" ; tigretunisie
+05041940 "(ID.Unused) FranSat" ; tigretunisie
+05041950 "FranSat HD (5W)" ; tigretunisie
+050419A0 "FranSat HD (5W)" ; tigretunisie
+05041E00 "Nova (23E)" ; tigretunisie
+05041F00 "Eurosport HD (13E/7E/5W/75E)" ; tigretunisie
+05042100 "Poverkhnost+ DTH (36E)" ; tigretunisie
+05042200 "Dolly Buster (13E)" ; tigretunisie
+05042210 "(ID.Unused) Dolly Buster" ; tigretunisie
+05042300 "RTVI (13E)" ; tigretunisie
+05042310 "(ID.Unused) RTVI" ; tigretunisie
+05042400 "JSC Sports (13E/20E/26E/7W)" ; tigretunisie
+05042410 "(ID.Unused) JSC Sports" ; tigretunisie
+05042500 "Canal+ Wallonne (19E/23E/13E)" ; tigretunisie
+05042510 "(ID.Unused) Canal+ Wallonne" ; tigretunisie
+05042520 "(ID.Unused) Canal+ Wallonne" ; tigretunisie
+05042530 "(ID.Unused) Canal+ Wallonne" ; tigretunisie
+05042600 "Arqiva (9E)" ; tigretunisie
+05042610 "British Telekom (9E)" ; tigretunisie
+05042700 "SCT (13E)" ; tigretunisie
+05042710 "(ID.Unused) SCT" ; tigretunisie
+05042720 "Telefonica (9E)" ; tigretunisie
+05042730 "Sundance (9E)" ; tigretunisie
+05042740 "Penthouse HD (9E)" ; tigretunisie
+05042760 "TSA (24W)" ; tigretunisie
+05042800 "BIS TV (13E/5W/19E/12W)" ; tigretunisie
+05042810 "(ID.Unused) BIS TV" ; tigretunisie
+05042A00 "CanalSat France (19E)" ; tigretunisie
+05042A10 "(ID.Unused) CSAT" ; tigretunisie
+05042C00 "Asianet/Mezzo HD (9E)" ; tigretunisie
+05043010 "2STV (7E)" ; tigretunisie
+05043200 "TNT France (5W/DVBT)" ; tigretunisie
+05043300 "TNT (19E)" ; tigretunisie
+05043330 "CanalSat France (19E)" ; tigretunisie
+05043800 "SCT HD/Hustler HD/Redlight HD (13E)" ; tigretunisie
+05043810 "(ID.Unused) SCT/Hustler HD/Redlight HD" ; tigretunisie
+05043900 "Pro TV (13E)"
+## cccam.providers Update 25-02-2017 -- ####
+
+; tigretunisie
+05043A00 "Star Vijay (9E)" ; tigretunisie
+05043A10 "(ID.Unused) Star Vijay" ; tigretunisie
+05047500 "JSC Sports (13E/20E/26E/7W)" ; tigretunisie
+05050100 "HTB+ (36E)" ; tigretunisie
+05136660 "Connecto (60E)" ; tigretunisie
+05FFF320 "Issuer NSAB (5E)" ; tigretunisie
+05FFF400 "Issuer GC/ART/BiS/TNT/CSAT/BBC (13E/19E/9E)" ; tigretunisie
+05FFF420 "Issuer Unknown" ; tigretunisie
+05FFF430 "Issuer SRG (13E)" ; tigretunisie
+05FFF450 "Issuer SVT (5E)" ; tigretunisie
+05FFF460 "Issuer BBC Prime (13E)" ; tigretunisie
+05FFF4A0 "Issuer HRT (13E)" ; tigretunisie
+05FFF4B0 "Issuer TVS (13E)" ; tigretunisie
+05FFF4F0 "Issuer pacific region" ; tigretunisie
+05FFF500 "Issuer HTB+ (36E)" ; tigretunisie
+05FFF510 "Issuer Boxer (DVBC)" ; tigretunisie
+05FFF530 "Issuer Televisa (24W/43W-C)" ; tigretunisie
+05FFF560 "Issuer Localia (30W)" ; tigretunisie
+05FFF5B0 "Issuer Unknown" ; tigretunisie
+05FFF5F0 "Issuer Deepam (13E)" ; tigretunisie
+05FFF610 "Issuer Unknown" ; tigretunisie
+05FFF710 "Issuer Hayat (13E/4W)" ; tigretunisie
+05FFF720 "Issuer TVR Cultural (Old)" ; tigretunisie
+05FFF780 "Issuer RTVi (13E)" ; tigretunisie
+05FFF7A0 "Issuer Redlight (9E)" ; tigretunisie
+05FFF7E0 "Issuer SPI (4W)" ; tigretunisie
+05FFF810 "Issuer RL/Private Spice (13E)" ; tigretunisie
+05FFF820 "Issuer BHT/MAX TV (5E/13E/16E)" ; tigretunisie
+05FFF830 "Issuer Dorcel/FreeX (13E)" ; tigretunisie
+05FFF840 "Issuer pacific region" ; tigretunisie
+05FFF860 "Issuer Unknown" ; tigretunisie
+05FFF890 "Issuer Poverkhnost (36E)" ; tigretunisie
+05FFF8A0 "Issuer MAX TV (5E/13E/16E)" ; tigretunisie
+05FFF8F0 "Issuer Redlight (9E)" ; tigretunisie
+05FFF920 "Issuer JSC Sport+ (13E)" ; tigretunisie
+05FFFA30 "Issuer STAR TV (83E)" ; tigretunisie
+05FFFA50 "Issuer ARY (9E)" ; tigretunisie
+05FFFAA0 "Issuer RedHotSex (13E)" ; tigretunisie
+05FFFD00 "Issuer DP/ST-Hilo (9E/30W)" ; tigretunisie
+06000000 "Irdeto CAid" ; tigretunisie
+06020000 "Stellar/Kontinent (70E/75E/85E)" ; tigretunisie
+06020001 "(ID.Unused) Stellar/Kontinent" ; tigretunisie
+06020002 "(ID.Unused) Stellar/Kontinent" ; tigretunisie
+06020003 "(ID.Unused) Stellar/Kontinent" ; tigretunisie
+06030000 "JSC Sports (13E/20E/26E/7W)" ; tigretunisie
+06030001 "(ID.Unused) JSC Sports" ; tigretunisie
+06030002 "(ID.Unused) JSC Sports" ; tigretunisie
+06030003 "(ID.Unused) JSC Sports" ; tigretunisie
+06040000 "TVB/Nova-SCT/Bulsatcom/DSTV/True/ART-JSC/CTI (9E/13E/39E/68E/78E/7W/15W)" ; tigretunisie
+06040001 "Nova (13E)/SHOWTIME (7W)/Bulsatcom (39E)" ; tigretunisie
+06040002 "(ID.Unused) Nova (13E)/SHOWTIME (7W)/Bulsatcom (39E)" ; tigretunisie
+06040003 "(ID.Unused) Nova (13E)/SHOWTIME (7W)/Bulsatcom (39E)" ; tigretunisie
+06040004 "(ID.Unused) Nova (13E)/SHOWTIME (7W)/Bulsatcom (39E)" ; tigretunisie
+06040005 "(ID.Unused) Nova (13E)/SHOWTIME (7W)/Bulsatcom (39E)" ; tigretunisie
+06040006 "(ID.Unused) Nova (13E)/SHOWTIME (7W)/Bulsatcom (39E)" ; tigretunisie
+06040007 "(ID.Unused) Nova (13E)/SHOWTIME (7W)/Bulsatcom (39E)" ; tigretunisie
+06040010 "(ID.Unused) Nova (13E)/SHOWTIME (7W)/Bulsatcom (39E)" ; tigretunisie
+06060000 "MultiChoice Africa(39E-68E)/RTV21 (1W)" ; tigretunisie
+06080000 "Stream/ZeeTV (75E/13E/9E/100E)" ; tigretunisie
+06080001 "(ID.Unused) Stream/ZeeTV" ; tigretunisie
+06080002 "(ID.Unused) Stream/ZeeTV" ; tigretunisie
+06080003 "(ID.Unused) Stream/ZeeTV" ; tigretunisie
+06140000 "Globecast (13E/9E)" ; tigretunisie
+06150000 "SkyLogic/Viacom (33E/68E-C)" ; tigretunisie
+06160000 "Alfa/Sitel (39E/16E)" ; tigretunisie
+06160001 "(ID.Unused) Alfa/Sitel" ; tigretunisie
+06160002 "(ID.Unused) Alfa/Sitel" ; tigretunisie
+06160003 "(ID.Unused) Alfa/Sitel" ; tigretunisie
+06200000 "LA7 Sport (12W)" ; tigretunisie
+06210000 "Adulto (45W)" ; tigretunisie
+06220000 "Canal+ NL (19E/23E)" ; tigretunisie
+06220001 "(ID.Unused) Canal+ NL" ; tigretunisie
+06220002 "(ID.Unused) Canal+ NL" ; tigretunisie
+06220003 "(ID.Unused) Canal+ NL" ; tigretunisie
+06240000 "Skylink/WDS (23E/19E/10E)" ; tigretunisie
+06240001 "(ID.Unused) Skylink/WDS" ; tigretunisie
+06240002 "(ID.Unused) Skylink/WDS" ; tigretunisie
+06240003 "(ID.Unused) Skylink/WDS" ; tigretunisie
+06250000 "RRSat/MGM (9E&13E/10E)" ; tigretunisie
+06250001 "(ID.Unused) RRSat/MGM" ; tigretunisie
+06250002 "(ID.Unused) RRSat/MGM" ; tigretunisie
+06250003 "(ID.Unused) RRSat/MGM" ; tigretunisie
+06270000 "JSC (7W)" ; tigretunisie
+06270001 "(ID.Unused) JSC" ; tigretunisie
+06270002 "(ID.Unused) JSC" ; tigretunisie
+06270003 "(ID.Unused) JSC" ; tigretunisie
+06280000 "Redlight HD/SCT (13E&5W)" ; tigretunisie
+06280001 "(ID.Unused) Redlight HD/SCT"
+## cccam.providers Update 25-02-2017 -- ####
+
+; tigretunisie
+06280002 "(ID.Unused) Redlight HD/SCT" ; tigretunisie
+06280003 "(ID.Unused) Redlight HD/SCT" ; tigretunisie
+06300000 "Redlight HD/SUN (13E&5W/93E)" ; tigretunisie
+06310000 "Dialog TV (45E)" ; tigretunisie
+06320000 "Teuve (24W)" ; tigretunisie
+06340000 "Raduga (75E)" ; tigretunisie
+06370000 "Almajd (26E)" ; tigretunisie
+06370001 "(ID.Unused) Almajd" ; tigretunisie
+06370002 "(ID.Unused) Almajd" ; tigretunisie
+06370003 "(ID.Unused) Almajd" ; tigretunisie
+06400000 "SUN (9E)" ; tigretunisie
+06460000 "BFBS (10E)" ; tigretunisie
+06460001 "BFBS (10E)" ; tigretunisie
+06460002 "BFBS (10E)" ; tigretunisie
+06460003 "BFBS (10E)" ; tigretunisie
+06470000 "SCT HD/Redlight HD/Hustler HD (13E)" ; tigretunisie
+06470001 "(ID.Unused) SCT HD/Redlight HD/Hustler HD" ; tigretunisie
+06470002 "(ID.Unused) SCT HD/Redlight HD/Hustler HD" ; tigretunisie
+06470003 "(ID.Unused) SCT HD/Redlight HD/Hustler HD" ; tigretunisie
+06480000 "ORF/AustriaSat (19E)" ; tigretunisie
+06480001 "(ID.Unused) ORF/AustriaSat" ; tigretunisie
+06480002 "(ID.Unused) ORF/AustriaSat" ; tigretunisie
+06480003 "(ID.Unused) ORF/AustriaSat" ; tigretunisie
+06490000 "SUN (100E)" ; tigretunisie
+06490001 "(ID.Unused) SUN" ; tigretunisie
+06490002 "(ID.Unused) SUN" ; tigretunisie
+06490003 "(ID.Unused) SUN" ; tigretunisie
+06520000 "Raduga TV (75E)" ; tigretunisie
+06520001 "(ID.Unused) Raduga TV" ; tigretunisie
+06520002 "(ID.Unused) Raduga TV" ; tigretunisie
+06520003 "(ID.Unused) Raduga TV" ; tigretunisie
+06540000 "Poverkhnost+ DTH (36E)" ; tigretunisie
+06540001 "(ID.Unused) Poverkhnost+ DTH (36E)" ; tigretunisie
+06540002 "(ID.Unused) Poverkhnost+ DTH (36E)" ; tigretunisie
+06540003 "(ID.Unused) Poverkhnost+ DTH (36E)" ; tigretunisie
+06560000 "Raj TV (83E)" ; tigretunisie
+06620000 "Dahlia TV (12W)" ; tigretunisie
+06620001 "(ID.Unused) Dahlia TV" ; tigretunisie
+06620002 "(ID.Unused) Dahlia TV" ; tigretunisie
+06620003 "(ID.Unused) Dahlia TV" ; tigretunisie
+06640000 "Digiturk (7E/42E)" ; tigretunisie
+06640001 "(ID.Unused) Digiturk" ; tigretunisie
+06640002 "(ID.Unused) Digiturk" ; tigretunisie
+06640003 "(ID.Unused) Digiturk" ; tigretunisie
+06660000 "CS Link (23.5E) ; tigretunisie
+06660001 "CS Link (23.5E) ; tigretunisie
+06660002 "CS Link (23.5E) ; tigretunisie
+06680000 "OSN (26E/7W)" ; tigretunisie
+06680001 "(ID.Unused) OSN" ; tigretunisie
+06680002 "(ID.Unused) OSN" ; tigretunisie
+06680003 "(ID.Unused) OSN" ; tigretunisie
+06820000 "Abu Dhabi Sport (26E/7W)" ; tigretunisie
+06820001 "(ID.Unused) Abu Dhabi Sport" ; tigretunisie
+06820002 "(ID.Unused) Abu Dhabi Sport" ; tigretunisie
+06820003 "(ID.Unused) Abu Dhabi Sport" ; tigretunisie
+09000000 "Videoguard CAid" ; tigretunisie
+09050000 "SKY Mexico (58W)" ; tigretunisie
+09070000 "SKY Brazil (43W-C)" ; tigretunisie
+090B0000 "Foxtel (156E)" ; tigretunisie
+090C0000 "yes (4W)" ; tigretunisie
+090D0000 "yes (4W)" ; tigretunisie
+090F0000 "Viasat (5E/75E)" ; tigretunisie
+09150000 "Ono Cable Spain (DVB-C)" ; tigretunisie
+09170000 "Shenzhen Cable China (DVB-C)" ; tigretunisie
+09190000 "SKY Italia (13E)" ; tigretunisie
+091C0000 "Canton (DVBC)" ; tigretunisie
+091F0000 "Total TV (16E)" ; tigretunisie
+09260000 "Get Norge (DVBC)" ; tigretunisie
+09290000 "boom (4W)" ; tigretunisie
+092B0000 "D-SMART (42E)" ; tigretunisie
+092D0000 "Shanghai Cable China (DVBC)" ; tigretunisie
+092F0000 "Dolce (39E)" ; tigretunisie
+09310000 "VisionTV (5E/13E)" ; tigretunisie
+09390000 "Cable Chongqing (DVBC)" ; tigretunisie
+093A0000 "Ono Cable Spain (DVBC)" ; tigretunisie
+093B0000 "SKY Italia (13E)" ; tigretunisie
+093B0001 "(ID.Unused) SKY Italia" ; tigretunisie
+093B0002 "(ID.Unused) SKY Italia" ; tigretunisie
+093B0003 "(ID.Unused) SKY Italia" ; tigretunisie
+093E0000 "Viasat (5E/75E)" ; tigretunisie
+09430000 "Gregtissa TV" ; tigretunisie
+09440000 "TataSky India (83E)" ; tigretunisie
+09450000 "Sky Mexico (58W)" ; tigretunisie
+09470000 "Tianjin Cable China (DVBC)" ; tigretunisie
+09600000 "SKY UK (28E)" ; tigretunisie
+09610000 "SKY UK (28E)" ; tigretunisie
+09620000 "DTH (4W)" ; tigretunisie
+09630000 "SKY UK (28E)"
+## cccam.providers Update 25-02-2017 -- ####
+
+; tigretunisie
+09670000 "Reuters (22W)" ; tigretunisie
+09690000 "SkyTV (160E)" ; tigretunisie
+096A0000 "SkyTV (160E)" ; tigretunisie
+096C0000 "Foxtel (156E)" ; tigretunisie
+096E0000 "Cable Hot (DVBC)" ; tigretunisie
+09790000 "Tellytrack (45E)" ; tigretunisie
+09830000 "Artear (43W-C)" ; tigretunisie
+09880000 "TVB (108E)" ; tigretunisie
+098E0000 "KabelBW (DVBC)" ; tigretunisie
+09AA0000 "Airtel (74E)" ; tigretunisie
+09AC0000 "Astro TV (91E)" ; tigretunisie
+09AF0000 "TeleColumbus/KabelKiosk/RTVI (9E/13E)" ; tigretunisie
+09B20000 "TVP (19E)" ; tigretunisie
+09B60000 "TeleClub Schweiz (DVBC)" ; tigretunisie
+09B80000 "TopTV (5E)" ; tigretunisie
+09B90000 "MyTV (1W)" ; tigretunisie
+09BD0000 "Vivacom (45E)" ; tigretunisie
+09BE0000 "OTE (9E/39E)" ; tigretunisie
+09C40000 "SKY Deutschland (19E)" ; tigretunisie
+09C40001 "(ID.Unused) SKY Deutschland" ; tigretunisie
+09C40002 "(ID.Unused) SKY Deutschland" ; tigretunisie
+09C40003 "(ID.Unused) SKY Deutschland" ; tigretunisie
+09C40004 "(ID.Unused) SKY Deutschland" ; tigretunisie
+09C70000 "Kabel Deutschland (23E)" ; tigretunisie
+09CC0000 "Shenzhen Cable China (DVB-C)" ; tigretunisie
+09CD0000 "Sky Italia (13E)" ; tigretunisie
+09D00000 "TVP Info (19E)" ; tigretunisie
+0B000000 "Akta/Kabel Kiosk/TVN/DigitAlb/Technisat/My TV/T-Home/Magio Sat/MBC HD/Starmax HD (5E/9E/13E/16E/19E/68E/4W/7W/30W) Comhem SE [DVB-C]" ; tigretunisie
+0B010000 "Salellite BG/N/Conto TV/RUV (23E/13E/1W)" ; tigretunisie
+0B001010 "TNK/N HDTV (13E) WilhelmTel DE [DVB-C]" ; tigretunisie
+0B001030 "WilhelmTel DE [DVB-C]" ; tigretunisie
+0B011050 "N HDTV (13E)" ; tigretunisie
+0B0071F1 "Technisat/MTV Unlimited (19E)" ; tigretunisie
+0B00E030 "Canal Digital Nordic (1W)" ; tigretunisie
+0B0F0000 "Harmonic (4W)" ; tigretunisie
+0B020000 "Vectra PL [DVBC]/Redlight/UPC/DaVinci (13E/1W/4W/5W)" ; tigretunisie
+0BAA0000 "Hello HD+/Tring TV/eVision (9E/13E/16E)" ; tigretunisie
+0BBA0000 "Hello HD+ (9E)" ; tigretunisie
+0D000000 "MTV/Arqiva/DigiTurk (13E/19E/5E/7/42)" ; tigretunisie
+0D000010 "MTV (13E/19E/9E/4W)" ; tigretunisie
+0D000020 "Kingstone/MTV PL (5E/13E/19E)&[EMU225]" ; tigretunisie
+0D000030 "Kingstone (5E/9E)&[EMU225]" ; tigretunisie
+0D000048 "MTV Mandarin (68E)" ; tigretunisie
+0D00004C "MTV India (68E)" ; tigretunisie
+0D0000C0 "Digiturk (7E/42E)" ; tigretunisie
+0D0000C4 "(ID.Unused) DigiTurk" ; tigretunisie
+0D0000C8 "(ID.Unused) DigiTurk" ; tigretunisie
+0D0000CC "(ID.Unused) DigiTurk" ; tigretunisie
+0D010000 "JSTV (13E)" ; tigretunisie
+0D0100E0 "JSTV (13E)" ; tigretunisie
+0D0100E4 "(ID.Unused) JSTV" ; tigretunisie
+0D0100E8 "(ID.Unused) JSTV" ; tigretunisie
+0D0100EC "(ID.Unused) JSTV" ; tigretunisie
+0D020000 "RTL/UPC Direct (13E/19E/1W)" ; tigretunisie
+0D020058 "RTL (13E)" ; tigretunisie
+0D0200A0 "UPC Direct (1W/19E)" ; tigretunisie
+0D0200A4 "(ID.Unused) UPC Direct" ; tigretunisie
+0D0200A8 "(ID.Unused) UPC Direct" ; tigretunisie
+0D02008C "(ID.Unused) UPC Direct" ; tigretunisie
+0D030000 "Skylink CZ/Turner/Disney (23E/19E/9E)" ; tigretunisie
+0D030004 "Skylink CZ (23E)" ; tigretunisie
+0D030008 "Skylink CZ Premium (23E/19E)" ; tigretunisie
+0D03000C "(ID.Unused) Skylink CZ" ; tigretunisie
+0D030010 "(ID.Unused) Skylink CZ" ; tigretunisie
+0D030024 "(ID.Unused) Skylink CZ" ; tigretunisie
+0D030028 "(ID.Unused) Skylink CZ Premium" ; tigretunisie
+0D03005C "Turner (19E/13E/39E)" ; tigretunisie
+0D030060 "(ID.Unused) Turner" ; tigretunisie
+0D0300A0 "DISNEY (9E)&[EMU225]" ; tigretunisie
+0D0300A4 "(ID.Unused) DISNEY" ; tigretunisie
+0D0300A8 "(ID.Unused) DISNEY" ; tigretunisie
+0D0300AC "(ID.Unused) DISNEY" ; tigretunisie
+0D040000 "DMC (15W)" ; tigretunisie
+0D040004 "DMC (15W)" ; tigretunisie
+0D040008 "(ID.Unused) DMC" ; tigretunisie
+0D04000C "(ID.Unused) DMC" ; tigretunisie
+0D040010 "(ID.Unused) DMC" ; tigretunisie
+0D050000 "ORF/AustriaSat (19E)" ; tigretunisie
+0D050004 "ORF (19E)" ; tigretunisie
+0D050008 "Alpengl?hen TVX (19E)" ; tigretunisie
+0D05000C "(ID.Unused) ORF" ; tigretunisie
+0D050010 "(ID.Unused) AustriaSat (19E)" ; tigretunisie
+0D060000 "Satellite BG (23E)" ; tigretunisie
+0D0600C0 "Satellite BG (23E)" ; tigretunisie
+0D0600C4 "(ID.Unused) Satellite BG" ; tigretunisie
+0D0600C8 "(ID.Unused) Satellite BG" ; tigretunisie
+0D0600CC "(ID.Unused) Satellite BG" ; tigretunisie
+0D070000 "BFBS (10E)/Antena Hungaria (DVBC)"
+## cccam.providers Update 25-02-2017 -- ####
+
+; tigretunisie
+0D070004 "Antena Hungaria (DVBC)" ; tigretunisie
+0D070008 "(ID.Unused) Antena Hungaria (DVBC)" ; tigretunisie
+0D07000C "(ID.Unused) Antena Hungaria (DVBC)" ; tigretunisie
+0D070010 "(ID.Unused) Antena Hungaria (DVBC)" ; tigretunisie
+0D070014 "BFBS (10E)" ; tigretunisie
+0D070018 "(ID.Unused) BFBS" ; tigretunisie
+0D07001C "(ID.Unused) BFBS" ; tigretunisie
+0D070020 "(ID.Unused) BFBS" ; tigretunisie
+0D080000 "AlMajd (26E)" ; tigretunisie
+0D080014 "AlMajd (26E)" ; tigretunisie
+0D080018 "(ID.Unused) AlMajd" ; tigretunisie
+0D08001C "(ID.Unused) AlMajd" ; tigretunisie
+0D080020 "(ID.Unused) AlMajd" ; tigretunisie
+0D0A0000 "Halozat TV (4W)" ; tigretunisie
+0D0A0004 "Halozat TV (4W)" ; tigretunisie
+0D0D0000 "IKO Kable (4W)" ; tigretunisie
+0D0D0010 "IKO Kable (4W)" ; tigretunisie
+0D0F0000 "CS Link (23E)" ; tigretunisie
+0D0F0004 "CS Link (23E)" ; tigretunisie
+0D0F0008 "CS Link Premium (23E)" ; tigretunisie
+0D0F000C "(ID.Unused) CS Link" ; tigretunisie
+0D0F0010 "(ID.Unused) CS Link" ; tigretunisie
+0D220000 "ESPN/Travel (19E)" ; tigretunisie
+0D220004 "ESPN/Travel (19E)" ; tigretunisie
+0D220008 "(ID.Unused) ArenaSAT" ; tigretunisie
+0D22000C "(ID.Unused) ArenaSAT" ; tigretunisie
+0D220010 "(ID.Unused) ArenaSAT" ; tigretunisie
+0D700000 "Skylink SK (23E)" ; tigretunisie
+0D700004 "Skylink SK (23E)" ; tigretunisie
+0D700008 "(ID.Unused) Skylink SK" ; tigretunisie
+0D70000C "(ID.Unused) Skylink SK" ; tigretunisie
+0D700010 "(ID.Unused) Skylink SK" ; tigretunisie
+0D710000 "Romantica (5E)" ; tigretunisie
+0D710004 "Romantica (5E)" ; tigretunisie
+0D950000 "ORF (19E)" ; tigretunisie
+0D950004 "ORF (19E)" ; tigretunisie
+0D950008 "(ID.Unused) ORF" ; tigretunisie
+0D95000C "(ID.Unused) ORF" ; tigretunisie
+0D950010 "(ID.Unused) ORF" ; tigretunisie
+0D960000 "Skylink (23E)" ; tigretunisie
+0D960004 "(ID.Unused) Skylink" ; tigretunisie
+0D960008 "(ID.Unused) Skylink" ; tigretunisie
+0D96000C "(ID.Unused) Skylink" ; tigretunisie
+0D960010 "(ID.Unused) Skylink" ; tigretunisie
+0D970000 "UPC Direct (1W)" ; tigretunisie
+0E000000 "PowerVu" ; tigretunisie
+0E000001 "PowerVu" ; tigretunisie
+0E000002 "PowerVu" ; tigretunisie
+0E000003 "PowerVu" ; tigretunisie
+10100000 "Polaris (39E)" ; tigretunisie
+17020000 "SKY Germany/SKY Germany Extra (19E)[tunneled Nagra]" ; tigretunisie
+17020001 "(ID.Unused) SKY Germany" ; tigretunisie
+17020002 "(ID.Unused) SKY Germany" ; tigretunisie
+17020003 "(ID.Unused) SKY Germany" ; tigretunisie
+17020004 "(ID.Unused) SKY Germany" ; tigretunisie
+17020005 "(ID.Unused) SKY Germany" ; tigretunisie
+17020006 "(ID.Unused) SKY Germany" ; tigretunisie
+17020007 "(ID.Unused) SKY Germany" ; tigretunisie
+17080000 "OSN (7E)" ; tigretunisie
+17080001 "(ID.Unused) OSN" ; tigretunisie
+17080002 "(ID.Unused) OSN" ; tigretunisie
+17220000 "Kabel Deutschland (23E)[tunneled Nagra]" ; tigretunisie
+17220001 "(ID.Unused) Kabel Deutschland" ; tigretunisie
+17220002 "(ID.Unused) Kabel Deutschland" ; tigretunisie
+17220003 "(ID.Unused) Kabel Deutschland" ; tigretunisie
+18000000 "Nagravision CAid" ; tigretunisie
+18001D01 "MultiChoice TV Barbados (DVBC)" ; tigretunisie
+18003801 "DCG Swiss (DVBC)" ; tigretunisie
+18003901 "DCG Swiss (DVBC)" ; tigretunisie
+18003A01 "Teleclub (DVBC)" ; tigretunisie
+18003B01 "Teleclub (DVBC)" ; tigretunisie
+18004B11 "spain (DVBC)" ; tigretunisie
+18005401 "NTL (DVBC)" ; tigretunisie
+18005501 "NTL (DVBC)" ; tigretunisie
+18005601 "Quiero Tv (DVBT)[30W]" ; tigretunisie
+18005701 "Quiero Tv (DVBT)[30W]" ; tigretunisie
+18005A01 "TeleWest (DVBC)" ; tigretunisie
+18005B01 "TeleWest (DVBC)" ; tigretunisie
+18005C01 "Wireless (DVBC)" ; tigretunisie
+18005D01 "Wireless (DVBC)" ; tigretunisie
+18005E01 "Chorus (DVBC)" ; tigretunisie
+18005F01 "Chorus (DVBC)" ; tigretunisie
+18006801 "Fantasma (DVBC)" ; tigretunisie
+18006901 "Fantasma (DVBC)" ; tigretunisie
+18007201 "CableCom Swiss (DVBC)" ; tigretunisie
+18007301 "CableCom Swiss (DVBC)" ; tigretunisie
+18008C11 "Mediaset Premium (DVBT)" ; tigretunisie
+18008D11 "Mediaset Premium (DVBT)"
+## cccam.providers Update 25-02-2017 -- ####
+
+; tigretunisie
+18009801 "Shanghai (DVBC)" ; tigretunisie
+18009901 "Shanghai (DVBC)" ; tigretunisie
+1800A001 "OMNE (DVBC)" ; tigretunisie
+1800A101 "OMNE (DVBC)" ; tigretunisie
+1800C801 "RTN (95W)" ; tigretunisie
+1800C901 "RTN (95W)" ; tigretunisie
+1800F201 "RAJ TV (83E)" ; tigretunisie
+1800F301 "RAJ TV (83E)" ; tigretunisie
+18010000 "TV Globo/Kabel Deutschland/Telefonica/CableCom Swiss (13E/23E/61W) [DVBC]" ; tigretunisie
+18010906 "Kabel Deutschland (23E)&[EMU]" ; tigretunisie
+18011002 "UnityDigital/ISH/IESY/KabelBW (DVBC)&[EMU]" ; tigretunisie
+18011101 "(ID.Unused) Kabel Deutschland" ; tigretunisie
+18011102 "(ID.Unused) UnityDigital/ISH/IESY/KabelBW" ; tigretunisie
+18012601 "CableCom Swiss (DVBC)" ; tigretunisie
+18012701 "(ID.Unused) CableCom Swiss (DVBC)" ; tigretunisie
+18013811 "SouthAmerica (DVBC)" ; tigretunisie
+18013911 "(ID.Unused) SouthAmerica (DVBC)" ; tigretunisie
+18014A11 "RGalicia (DVBC)" ; tigretunisie
+18014B11 "(ID.Unused) RGalicia (DVBC)" ; tigretunisie
+18015601 "Onda Digital (DVBT)" ; tigretunisie
+18015701 "(ID.Unused) Onda Digital (DVBT)" ; tigretunisie
+18017211 "Telefonica (61W)" ; tigretunisie
+18017311 "(ID.Unused) Telefonica" ; tigretunisie
+18019401 "HKC (138E)" ; tigretunisie
+18019501 "(ID.Unused) HKC" ; tigretunisie
+1801C001 "Globecast/TV Globo (97W/13E)[NS]" ; tigretunisie
+1801C002 "TV Globo (13E)&[EMU]" ; tigretunisie
+1801C101 "(ID.Unused) Globecast/TV Globo" ; tigretunisie
+1801C102 "(ID.Unused) TV Globo" ; tigretunisie
+18020000 "TV Cabo [ROM142]/Multicanal (30W)/SABC (68)" ; tigretunisie
+18022011 "DigiTV (1W)" ; tigretunisie
+18022111 "(ID.Unused) DigiTV" ; tigretunisie
+18022113 "(ID.Unused) DigiTV" ; tigretunisie
+18024801 "(ID.Unused) TV Cabo" ; tigretunisie
+18024901 "(ID.Unused) TV Cabo" ; tigretunisie
+18028C11 "Mediaset Premium (13E/5W)" ; tigretunisie
+18028D11 "(ID.Unused) Mediaset Premium" ; tigretunisie
+18030000 "POLSAT HD [ROM142]/Mediaset Premium (13E/5W)" ; tigretunisie
+18037001 "(ID.Unused) Polsat HD" ; tigretunisie
+18037101 "(ID.Unused) Polsat HD" ; tigretunisie
+18038C11 "(ID.Unused) Mediaset Premium" ; tigretunisie
+18038D11 "(ID.Unused) Mediaset Premium" ; tigretunisie
+18040000 "(ID.Unused) Mediaset Premium" ; tigretunisie
+18048C11 "(ID.Unused) Mediaset Premium" ; tigretunisie
+18048D11 "(ID.Unused) Mediaset Premium" ; tigretunisie
+18050000 "(ID.Unused) Mediaset Premium" ; tigretunisie
+18058C11 "(ID.Unused) Mediaset Premium" ; tigretunisie
+18058D11 "(ID.Unused) Mediaset Premium" ; tigretunisie
+18070000 "Glamour+ (24W/DVBT)" ; tigretunisie
+18077911 "Glamour+ (24W/DVBT)" ; tigretunisie
+18077A11 "(ID.Unused) Glamour+" ; tigretunisie
+18100000 "Digital+ (30W/19E)" ; tigretunisie
+18104001 "Digital+ HD (30W/19E)[ROM180]" ; tigretunisie
+18104101 "(ID.Unused) Digital+ HD" ; tigretunisie
+18110000 "CanalSat France (19E)" ; tigretunisie
+18111104 "CanalSat France (19E)" ; tigretunisie
+18111504 "(ID.Unused) CSAT" ; tigretunisie
+18112504 "(ID.Unused) CSAT" ; tigretunisie
+18114104 "Mezzo (19E) [tunneled SecaNagra]" ; tigretunisie
+18114106 "(ID.Unused) Mezzo (19E)" ; tigretunisie
+18120000 "Gol TV Spain (DVBT)" ; tigretunisie
+18126E11 "Gol TV Spain (DVBT)" ; tigretunisie
+18130000 "Bis TV/Cyfra+ (13E)" ; tigretunisie
+18140000 "MEO PT DHT (30W)" ; tigretunisie
+18150000 "Bell (82W/91W)[ROM240]" ; tigretunisie
+18157811 "(ID.Unused) Bell" ; tigretunisie
+18157911 "(ID.Unused) Bell" ; tigretunisie
+1815B801 "UPC/DIGITAL NL (1W/19E/DVBC)[ROM142]" ; tigretunisie
+1815B901 "(ID.Unused) UPC/DIGITAL NL" ; tigretunisie
+18160000 "Dish Network US (61W)" ; tigretunisie
+18170000 "Canal+ NL (19E/23E)" ; tigretunisie
+18180000 "TV Vlaanderen (19E)" ; tigretunisie
+18190000 "TeleSat Wallonne (19E)" ; tigretunisie
+18200000 "Localia (30W)" ; tigretunisie
+18205601 "Localia (30W)" ; tigretunisie
+18205701 "(ID.Unused) Localia" ; tigretunisie
+18300000 "HD+ (19E) [ROM142]" ; tigretunisie
+18303411 "(ID.Unused) HD+" ; tigretunisie
+18303511 "(ID.Unused) HD+" ; tigretunisie
+18308011 "(ID.Unused) HD+" ; tigretunisie
+18310000 "Unitymedia 01 (DVBC)[UM01-ROM110]" ; tigretunisie
+18310401 "(ID.Unused) Unitymedia 01 (DVBC-sysid)" ; tigretunisie
+18311103 "(ID.Unused) Unitymedia 01 (DVBC-sysid)" ; tigretunisie
+18330000 "SKY Deutschland (19E)[ROM181]" ; tigretunisie
+18330401 "(ID.Unused) SKY Deutschland" ; tigretunisie
+18340000 "Kabel Deutschland (23E/19E)[ROM184]" ; tigretunisie
+18340401 "(ID.Unused) Kabel Deutschland" ; tigretunisie
+18350000 "Unitymedia 03 (DVBC)"
+## cccam.providers Update 25-02-2017 -- ####
+
+; tigretunisie
+18360000 "Blue Movie (19E)" ; tigretunisie
+18370000 "Kabel Dienst Leistungs (23E/19E)" ; tigretunisie
+18373411 "(ID.Unused) Kabel Dienst Leistungs" ; tigretunisie
+18380000 "Unitymedia 02 (DVBC-sysid) [ROM142]" ; tigretunisie
+18380401 "(ID.Unused) Unitymedia 02" ; tigretunisie
+18381103 "(ID.Unused) Unitymedia 02" ; tigretunisie
+18390000 "Kabel Deutschland (23E)" ; tigretunisie
+183D0000 "TivuSat (13E)[ROM250]" ; tigretunisie
+183D5411 "(ID.Unused) TivuSat" ; tigretunisie
+183D8D11 "(ID.Unused) TivuSat" ; tigretunisie
+18400000 "Dish Network US (61W)" ; tigretunisie
+18410000 "Virgin Media (DVBC) [ROM180]" ; tigretunisie
+18430000 "HD+ (19E)" ; tigretunisie
+18433411 "(ID.Unused) HD+" ; tigretunisie
+18433504 "(ID.Unused) HD+" ; tigretunisie
+18433505 "(ID.Unused) HD+" ; tigretunisie
+18433511 "(ID.Unused) HD+" ; tigretunisie
+18433512 "(ID.Unused) HD+" ; tigretunisie
+18433513 "(ID.Unused) HD+" ; tigretunisie
+18438011 "(ID.Unused) HD+" ; tigretunisie
+18610000 "Cyfrowy Polsat (13E)/Kabel Deutschland (DVBC)" ; tigretunisie
+18610401 "Kabel Deutschland (DVBC)" ; tigretunisie
+18630000 "CSAT/BIS TV (19E)" ; tigretunisie
+18800000 "DigiTV (1W)[ROM190]" ; tigretunisie
+18802011 "(ID.Unused) DigiTV" ; tigretunisie
+18802111 "(ID.Unused) DigiTV" ; tigretunisie
+18802113 "(ID.Unused) DigiTV" ; tigretunisie
+22000000 "Inmedia (5E/60E)[codicrypt]" ; tigretunisie
+223B0000 "Bundestag (23E)[codicrypt]" ; tigretunisie
+22E20000 "National TV (16E)[codicrypt]" ; tigretunisie
+22E30000 "Russian Radio (53E/13E)[codicrypt]" ; tigretunisie
+22F00000 "TV B92/BRAVO/MTV (16E/4W)[codicrypt]" ; tigretunisie
+26000000 "EBU Biss [EMU]" ; tigretunisie
+26000020 "TV 1 Bosnia (16E)/Idman TV (42E)/AL Libyah (8W) EMU" ; tigretunisie
+26000021 "Lider TV (13E)/Opap TV (36E) EMU" ; tigretunisie
+26000022 "OSN (4E)/GTRK Pomorie (26E) EMU" ; tigretunisie
+26000023 "Rossiya 1 Tyumen (49E) EMU" ; tigretunisie
+26000025 "OSN (4E)/Al Aoula (13E)/Star World (52E) EMU" ; tigretunisie
+26000028 "OSN (4E)/STS +2h (53E) EMU" ; tigretunisie
+2600002A "NTV Spor (42E) EMU" ; tigretunisie
+2600002B "OSN (4E)/STS 0h (53E) EMU" ; tigretunisie
+260000CB "AL OLA (7?W)" ; tigretunisie
+2600002E "OSN (4E)/NBA TV (42E) EMU" ; tigretunisie
+26000031 "OSN (4E) EMU" ; tigretunisie
+26000033 "TV7 Bulgaria (31E) EMU" ; tigretunisie
+26000034 "OSN (4E) EMU" ; tigretunisie
+26000036 "T.Domashniy +2h (53E) EMU" ; tigretunisie
+26000037 "OSN (4E) EMU" ; tigretunisie
+2600003A "FX (52E) EMU" ; tigretunisie
+2600003C "T.Domashniy 0h (53E) EMU" ; tigretunisie
+26000042 "Lider TV (13E) EMU" ; tigretunisie
+26000064 "Al Aoula (21E)/1TV Georgia (42E)/Rossiya 1 (66E) EMU" ; tigretunisie
+26000086 "Monitor Games (13E) EMU" ; tigretunisie
+2600009A "TeleOnce (55W) EMU" ; tigretunisie
+2600009B "Trecevision (55W) EMU" ; tigretunisie
+2600009E "Canal 3 El Super Canal (55W) EMU" ; tigretunisie
+2600009F "Televisiete (55W) EMU" ; tigretunisie
+260000AA "Aflam TV (21E) EMU" ; tigretunisie
+260000B5 "Duhok TV (57E) EMU" ; tigretunisie
+260000D2 "MBC Persia (26E)/Nash Dom (53E) EMU" ; tigretunisie
+260000E3 "MBC USA (26E) EMU" ; tigretunisie
+26000100 "TRT1 (42E)/Inter (4W) EMU" ; tigretunisie
+26000101 "Rossiya 1 0h (40E)/SIC International (45W) EMU" ; tigretunisie
+26000102 "MGM Middle East (10E) EMU" ; tigretunisie
+26000103 "Al Riyadiah Earth (26E)/ENTV (5W/22W) EMU" ; tigretunisie
+26000104 "Opap TV (39E) EMU" ; tigretunisie
+26000105 "Radyo Vatan M (42E) EMU" ; tigretunisie
+26000106 "Radyo Vatan T (42E) EMU" ; tigretunisie
+2600010E "Ertu 1 (53E) EMU" ; tigretunisie
+26000113 "Odie (39E) EMU" ; tigretunisie
+26000116 "Rossiya2 (40E) EMU" ; tigretunisie
+26000118 "ERTU 2 (53E) EMU" ; tigretunisie
+26000122 "DHA Feed (42E) EMU" ; tigretunisie
+26000140 "First FM (42E) EMU" ; tigretunisie
+26000164 "TRT Haber (42E) EMU" ; tigretunisie
+260001F4 "STV Belarus (53E)/TVI Internacional (30W) EMU" ; tigretunisie
+260001FF "Mir Belogorya (60E)" ; tigretunisie
+26000200 "CTC +7 (90E) EMU" ; tigretunisie
+26000212 "Dubai Sports (7W) EMU" ; tigretunisie
+2600022C "TRT3 (42E) EMU" ; tigretunisie
+26000320 "NBA TV (10E) EMU" ; tigretunisie
+26000400 "TRK Kyiv (4W) EMU" ; tigretunisie
+2600040B "Radio All For Peace (9E) EMU" ; tigretunisie
+26000520 "HOME +4 (90E) EMU" ; tigretunisie
+26000550 "CTC +4 (90E) EMU" ; tigretunisie
+260005DE "Star TV (42E) EMU" ; tigretunisie
+26000610 "Pal FM (42E) EMU" ; tigretunisie
+26000611 "Pal Station (42E) EMU"
+## cccam.providers Update 25-02-2017 -- ####
+
+; tigretunisie
+260007DA "TV B92 (12W) EMU" ; tigretunisie
+2600080A "Mekha TV (36E) EMU" ; tigretunisie
+26000900 "Inter+ (4W) EMU" ; tigretunisie
+26000B00 "RTR Planeta (4W) EMU" ; tigretunisie
+26001079 "Alpha TV (1W)/Earth TV (15W) EMU" ; tigretunisie
+26001389 "RDV (36E) EMU" ; tigretunisie
+26001644 "HOME +7 (90E) EMU" ; tigretunisie
+260017DE "TET (4.8E) EMU" ; tigretunisie
+260017ED "1+1 International (4.8E) EMU" ; tigretunisie
+26001810 "First Ukraine (4.8E) EMU" ; tigretunisie
+260019D2 "Ukraina SD (4.8E) EMU" ; tigretunisie
+26001A18 "Pershiy Nacionalniy (5E) EMU" ; tigretunisie
+4A600000 "(Inactive) Armenia Region TV (36E) [SkyPilot]" ; tigretunisie
+4AA10000 "Iberia/JSC Sports (13E/9E/7W)[KeyFly]" ; tigretunisie
+4ABF0000 "Redlight TV (13E/5W) [SkyPilot]" ; tigretunisie
+4AD10000 "SISAL/JSC Sports (9E/7W) [Firecrypt]" ; tigretunisie
+4ADC0000 "Tv Numeric (DVBT)[5W] [SafeAccess]" ; tigretunisie
+4AE00000 "Tricolor (36E) [DRE-Crypt]" ; tigretunisie
+4AE10000 "Platforma HD/Tricolor (9E/36E)[DRE-Crypt]" ; tigretunisie
+4AE10011 "Platforma HD/Tricolor (9E/36E)[DRE-Crypt]" ; tigretunisie
+4AE10013 "Platforma HD/Tricolor (9E/36E)[DRE-Crypt]" ; tigretunisie
+4AE10014 "Platforma HD/Tricolor (9E/36E)[DRE-Crypt]" ; tigretunisie
+4AE10015 "Platforma HD/Tricolor (9E/36E)[DRE-Crypt]" ; tigretunisie
+4AE50000 "Platforma HD (9E)[DRE-Crypt]" ; tigretunisie
+4AEE0000 "Polaris (39E)[Deltacom]" ; tigretunisie
+55010000 "AthinaSat (39E) [Griffin]" ; tigretunisie
+55810000 "AthinaSat HD (39E) [Bulcrypt]" ; tigretunisie
+56010000 "NTV Plus (36E) [Verimatrix]" ; tigretunisie
+56040000 "ABS-CBN (5W) [Verimatrix]" ; tigretunisie
+A1010000 "RusCrypt (80E)" ; tigretunisie 
