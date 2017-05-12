@@ -1,0 +1,8 @@
+Version = 2.0
+Url = https://github.com/remytr/enigma2/raw/master/enigma2-plugin-extensions-free-server_V2.0_all.ipk
+name = enigma2-plugin-extensions-free-server_V2.0_all
+Date= 12/05/2017
+correct=update full to mod
+named bs4
+Download= Download 3330
+By = By ReMy
