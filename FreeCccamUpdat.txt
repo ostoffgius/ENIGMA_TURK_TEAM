@@ -1,4 +1,4 @@
-Version = 2.0
+Version = 2.1
 Url = https://github.com/remytr/enigma2/raw/master/enigma2-plugin-extensions-free-server_V2.1_all.ipk
 name = enigma2-plugin-extensions-free-server_V2.1_all
 Date= 12/05/2017
